@@ -1,2 +1,2 @@
-# cv-react-prita
-cv page using react js
+# portfolio-react-prita
+portfolio page using react js
